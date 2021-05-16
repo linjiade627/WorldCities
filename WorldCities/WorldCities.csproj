@@ -35,6 +35,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="ClientApp\src\app\cities\" />
     <Folder Include="Data\Source\" />
   </ItemGroup>
 
